@@ -8,5 +8,7 @@ mod watermelon;
 pub use watermelon::watermelon_solve;
 
 /*
-    problem :
+    problem : https://codeforces.com/problemset/problem/71/A
 */
+mod way_too_long_words;
+pub use way_too_long_words::solve;
